@@ -112,31 +112,37 @@ https://st04.sslstream.dlf.de/dlf/04/low/aac/stream.aac
 mp3 links : 
 https://www.dr.dk/hjaelp/digtal-radio/direkte-links-til-dr-radio-paa-nettet
 
-#### P1
-http://live-icy.gss.dr.dk/A/A03H.mp3.m3u
+#### P1 - mp3
+http://live-icy.dr.dk/A/A03H.mp3.m3u
 
-#### P2
-http://live-icy.gss.dr.dk/A/A04H.mp3.m3u
+#### P1 - aac
+https://drliveradio.akamaized.net/hls/live/2022411/p1/masterab.m3u8
+
+#### P2 - mp3 
+http://live-icy.dr.dk/A/A04H.mp3.m3u
+- aac
+https://drliveradio.akamaized.net/hls/live/2022411/p2/masterab.m3u8
 
 #### P3
-http://live-icy.gss.dr.dk/A/A05H.mp3.m3u
+http://live-icy.dr.dk/A/A05H.mp3.m3u
 
 #### P4
-http://live-icy.gss.dr.dk/A/A06H.mp3.m3u
-http://live-icy.gss.dr.dk/A/A14H.mp3.m3u
-http://live-icy.gss.dr.dk/A/A08H.mp3.m3u
+// bornholm 
+http://live-icy.dr.dk/A/A06H.mp3.m3u
+// kbh
+http://live-icy.dr.dk/A/A08H.mp3.m3u
+// nordjylland
+http://live-icy.dr.dk/A/A10H.mp3.m3u
 
-#### P5
-http://live-icy.gss.dr.dk/A/A25H.mp3.m3u
-
-#### P6
-http://live-icy.gss.dr.dk/A/A29H.mp3.m3u
-
-#### P7
-http://live-icy.gss.dr.dk/A/A21H.mp3.m3u
+#### P6 - beat 
+http://live-icy.dr.dk/A/A29H.mp3.m3u
+aac
+https://drliveradio.akamaized.net/hls/live/2022411/p6beat/masterab.m3u8
 
 #### P8 Jazz
-http://live-icy.gss.dr.dk/A/A22H.mp3.m3u
+http://live-icy.dr.dk/A/A22H.mp3.m3u
+aac
+https://drliveradio.akamaized.net/hls/live/2022411/p8jazz/masterab.m3u8
 
 
 
