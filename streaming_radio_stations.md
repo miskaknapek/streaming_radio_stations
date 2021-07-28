@@ -1,29 +1,80 @@
 ## Streaming radio links 
 
 
-### deutschlandsradio
+#### Deutschlandradio 
 
-#### Funk
+MP3
+128 kbit/s:
+https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
+
+64 kbit/s:
+https://st01.sslstream.dlf.de/dlf/01/64/mp3/stream.mp3
+
+AAC
+256 kbit/s:
+https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac
+
+96 kbit/s:
+https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac
+
+48 kbit/s:
+https://st01.sslstream.dlf.de/dlf/01/low/aac/stream.aac
+
+Opus
+64 kbit/s:
+https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus
+
+24 kbit/s:
+https://st01.sslstream.dlf.de/dlf/01/low/opus/stream.opus
+
+
+#### Funk Nova
+
+AAC (256 kBit/s) 
+https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac
+
+AAC ( 96kb/s )
+https://st03.sslstream.dlf.de/dlf/03/mid/aac/stream.aac
+
 MP3 (128 kBit/s) 
-http://st01.dlf.de/dlf/01/128/mp3/stream.mp3
+https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3
 
 MP3 (64 kBit/s) 
-http://st01.dlf.de/dlf/01/64/mp3/stream.mp3
+https://st03.sslstream.dlf.de/dlf/03/64/mp3/stream.mp3
 
-OGG
-http://st01.dlf.de/dlf/01/104/ogg/stream.ogg
+OGG (64kb/s)
+https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus
+
 
 #### Kultur
-MP3 (128 kBit/s) 
-http://st02.dlf.de/dlf/02/128/mp3/stream.mp3
 
-MP3 (64 kBit/s) 
-http://st02.dlf.de/dlf/02/64/mp3/stream.mp3
+MP3
+128 kbit/s:
+https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3
 
-OGG (104 kBit/s) 
-http://st02.dlf.de/dlf/02/104/ogg/stream.ogg
+64 kbit/s:
+https://st02.sslstream.dlf.de/dlf/02/64/mp3/stream.mp3
+
+AAC
+256 kbit/s:
+https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac
+
+96 kbit/s:
+https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac
+
+48 kbit/s:
+https://st02.sslstream.dlf.de/dlf/02/low/aac/stream.aac
+
+Opus
+64 kbit/s:
+https://st02.sslstream.dlf.de/dlf/02/high/opus/stream.opus
+
+24 kbit/s:
+https://st02.sslstream.dlf.de/dlf/02/low/opus/stream.opus
+
 
 #### NOVA
+
 MP3 (128 kBit/s) 
 http://st03.dlf.de/dlf/03/128/mp3/stream.mp3
 
@@ -36,11 +87,22 @@ http://st03.dlf.de/dlf/03/104/ogg/stream.ogg
 
 ### Dokumente und Debatten
 
-MP3 (128 kBit/s)
-http://st04.dlf.de/dlf/04/128/mp3/stream.mp3
+MP3
+128 kbit/s:
+https://st04.sslstream.dlf.de/dlf/04/128/mp3/stream.mp3
 
-MP3 (64 kBit/s) 
-http://st04.dlf.de/dlf/04/64/mp3/stream.mp3
+64 kbit/s:
+https://st04.sslstream.dlf.de/dlf/04/64/mp3/stream.mp3
+
+AAC
+256 kbit/s:
+https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac
+
+96 kbit/s:
+https://st04.sslstream.dlf.de/dlf/04/mid/aac/stream.aac
+
+48 kbit/s:
+https://st04.sslstream.dlf.de/dlf/04/low/aac/stream.aac
 
 
 
