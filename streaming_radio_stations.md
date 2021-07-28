@@ -152,19 +152,40 @@ https://drliveradio.akamaized.net/hls/live/2022411/p8jazz/masterab.m3u8
 mp3 länkar: 
 http://sverigesradio.se/sida/gruppsida.aspx?programid=3756&grupp=10632&artikel=5685687
 
+mp3 länkar i 192kbs
+https://sverigesradio.se/artikel/mp3-lankar-som-m3u-192-kbps
+mp3 länkar i 128kbs
+https://sverigesradio.se/artikel/mp3-lankar-som-m3u-128-kbps
+aac länkar i 192kbs
+https://sverigesradio.se/artikel/aac-lankar-som-m3u-192-kbps
+aac länkar i 64kbs
+https://sverigesradio.se/artikel/aac-lankar-som-m3u-96-kbps
+
+
 ### p1 
+- 192kbs mp3 
+https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u
+
 http://sverigesradio.se/topsy/direkt/132-mp3.m3u
 
 ### p2
+- 192kbs mp3 
+???
 http://sverigesradio.se/topsy/direkt/2562-mp3.m3u
 
 ### p2 klassiskt 
+- 192kbs mp3 
+??
 http://sverigesradio.se/topsy/direkt/1603-mp3.m3u
 
 ### p2 världen
+- 192kbs mp3 
+??
 http://sverigesradio.se/topsy/direkt/2619-mp3.m3u
 
 ### p2 klassisk jul
+- 192kbs mp3 
+??
 http://sverigesradio.se/topsy/direkt/3036-mp3.m3u
 
 ### p2 språk och musik 
@@ -174,23 +195,37 @@ http://sverigesradio.se/topsy/direkt/163-mp3.m3u
 http://sverigesradio.se/topsy/direkt/164-mp3.m3u
 
 ### p3 star
+- 192kbs mp3 
+??
 http://sverigesradio.se/topsy/direkt/1607-mp3.m3u
 
 ### p3 din gata 
+- 192kbs mp3 
+??
 http://sverigesradio.se/topsy/direkt/2576-mp3.m3u
 
 ### p4 
+- 192kbs mp3 
+??
 http://sverigesradio.se/topsy/direkt/205-mp3.m3u
 
 ### p5 stockholm 
+- 192kbs mp3 
+??
 http://sverigesradio.se/topsy/direkt/2842-mp3.m3u
 
 ### p6
+- 192kbs mp3 
+???
 http://sverigesradio.se/topsy/direkt/166-mp3.m3u
 
 ### Sisuradio
+- 192kbs mp3 
+???
 http://sverigesradio.se/topsy/direkt/226-mp3.m3u
 
 ### Sapmi
+- 192kbs mp3 
+???
 http://sverigesradio.se/topsy/direkt/224-mp3.m3u
 
